@@ -1,0 +1,10 @@
+
+//imbalanced data, problem?
+
+harmonic mean?
+
+components of PMT cost?
+
+uniformity of manually generated test case? 
+
+how to demonstrate test effectiveness?
