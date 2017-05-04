@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PItest.iml" filepath="$PROJECT_DIR$/PItest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/program/program.iml" filepath="$PROJECT_DIR$/program/program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/report/report.iml" filepath="$PROJECT_DIR$/report/report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
     </modules>
   </component>
 </project>
